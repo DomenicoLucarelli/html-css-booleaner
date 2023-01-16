@@ -2,8 +2,6 @@
     width: 30%;
     height: 30%;
     margin-top:2% ;
-    
-    
 }
 
 header {
@@ -11,5 +9,27 @@ header {
     background-size: contain;
     background-color: rgba(20, 144, 252, 0.705);
     box-sizing: border-box;
-    
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.grey{
+    color: grey;
+}
+
+#colore {
+    color: rgb(58, 142, 238);
+}
+
+#image-container{
+    margin-top: 2%;
+}
+#yellow{
+     background-color: yellow;
+}
+
+.list{
+   margin-left: -1.5%;
 }
