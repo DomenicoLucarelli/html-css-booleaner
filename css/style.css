@@ -26,7 +26,7 @@ h1{
 #image-container{
     margin-top: 2%;
 }
-#yellow{
+.yellow{
      background-color: yellow;
 }
 
@@ -51,4 +51,9 @@ td{
 
 .rowcolor{
     background-color: rgb(82, 140, 248);
+}
+
+.footer-img{
+    display: block;
+    margin-bottom:1% ;
 }
