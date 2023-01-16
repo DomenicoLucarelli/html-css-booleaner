@@ -1,0 +1,15 @@
+#logo {
+    width: 30%;
+    height: 30%;
+    margin-top:2% ;
+    
+    
+}
+
+header {
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+    background-color: rgba(20, 144, 252, 0.705);
+    box-sizing: border-box;
+    
+}
