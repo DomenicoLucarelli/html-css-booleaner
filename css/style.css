@@ -33,3 +33,22 @@ h1{
 .list{
    margin-left: -1.5%;
 }
+
+th{ 
+    background-color: rgba(1, 113, 211, 0.986);
+}
+
+table{
+    width: 100%;
+    border-spacing: 0;
+    text-align: left;
+    
+}
+
+td{
+    width: 33.3333%;
+}
+
+.rowcolor{
+    background-color: rgb(82, 140, 248);
+}
